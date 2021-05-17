@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1617535084 source:d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\main.cpp
+	<iostream>
+	"telefonszam.h"
+	"cim.h"
+	"nev.h"
+	"szemely.h"
+	"telefonkonyv.h"
+	"gtest_lite.h"
+
+1620109938 source:d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\szemely.cpp
+	"szemely.h"
+
+1618846716 d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\telefonszam.h
+	<iostream>
+	<string>
+
+1618846709 source:d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\telefonszam.cpp
+	"telefonszam.h"
+
+1618846689 source:d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\cim.cpp
+	"cim.h"
+
+1618846729 d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\cim.h
+	<string>
+	<iostream>
+
+1618846675 d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\nev.h
+	<string>
+	<iostream>
+
+1618846680 source:d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\nev.cpp
+	"nev.h"
+
+1619724485 d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\szemely.h
+	"nev.h"
+	"cim.h"
+	"telefonszam.h"
+
+1620113183 source:d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\telefonkonyv.cpp
+	"telefonkonyv.h"
+
+1620112916 d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\telefonkonyv.h
+	<string>
+	<iostream>
+	"filekezeles.h"
+	"szemely.h"
+	"memtrace.h"
+
+1617813349 d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1617044380 d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1618422713 source:d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1620122133 source:d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\main_test.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"telefonkonyv.h"
+	"gtest_lite.h"
+	"memtrace.h"
+	"menu.h"
+
+1618780931 d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\filekezeles.h
+	"szemely.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1618780973 source:d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\filekezeles.cpp
+	"filekezeles.h"
+
+1618419081 d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\adatok.h
+
+1620120316 d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\menu.h
+	"telefonkonyv.h"
+
+1620121692 source:d:\asztal\programming\code blocks\2. felev c++\nhf\telefonkonyv\menu.cpp
+	"menu.h"
+	"memtrace.h"
+
